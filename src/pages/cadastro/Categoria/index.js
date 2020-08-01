@@ -28,7 +28,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL = 'https://techflixserver.herokuapp.com/categorias';
+    const URL = window.location.hostname.includes('localhost')
+    ? 'http://localhost:3000/categorias'
+    : 'https://techflixserver.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
