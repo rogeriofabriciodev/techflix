@@ -6,7 +6,7 @@ import Button from '../../../components/Button';
 
 function CadastroCategoria() {
   const valoresIniciais = {
-    nome: '',
+    titulo: '',
     descricao: '',
     cor: '',
   };
@@ -38,23 +38,6 @@ function CadastroCategoria() {
           ...resposta,
         ]);
       });
-    // setTimeout(() => {
-    //   setCategorias([
-    //     ...categorias,
-    //     {
-    //       id: 1,
-    //       nome: 'Front-end',
-    //       descricao: 'Uma categoria bacana',
-    //       cor: '#cbd1ff',
-    //     },
-    //     {
-    //       id: 2,
-    //       nome: 'Back-end',
-    //       descricao: 'Outra categoria bacana',
-    //       cor: '#cbd1ff',
-    //     },
-    //   ]);
-    // }, 4 * 1000);
   },
   []);
 
@@ -75,10 +58,10 @@ function CadastroCategoria() {
       >
 
         <FormFields
-          label="Nome da Categoria"
+          label="Titulo da Categoria"
           type="text"
-          value={values.nome}
-          name="nome"
+          value={values.titulo}
+          name="titulo"
           onChange={handleChange}
         />
 
@@ -112,7 +95,7 @@ function CadastroCategoria() {
       <ul>
         { categorias.map((categoria) => (
           <li key={`${categoria.id}`}>
-            {categoria.nome}
+            {categoria.titulo}
           </li>
         ))}
       </ul>
