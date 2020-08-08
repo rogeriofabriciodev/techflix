@@ -70,117 +70,93 @@
     },
     {
       "id": 6,
-      "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "categoriaId": 2,
+      "titulo": "Holy Wars...The Punishment Due",
+      "url": "https://www.youtube.com/watch?v=9d4ui9q7eDM"
     },
     {
       "id": 7,
-      "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "categoriaId": 2,
+      "titulo": "Symphony Of Destruction",
+      "url": "https://www.youtube.com/watch?v=vfpgpf6QVnI"
     },
     {
       "id": 8,
       "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "titulo": "Tornado Of Souls [Live - San Diego]",
+      "url": "https://www.youtube.com/watch?v=K-HzFACAedk"
     },
     {
       "id": 9,
       "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "titulo": "Dystopia",
+      "url": "https://www.youtube.com/watch?v=X23afHWVj_Q"
     },
     {
       "id": 10,
       "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "titulo": "Hangar 18",
+      "url": "https://www.youtube.com/watch?v=41IoDigg72A"
     },
     {
       "id": 11,
-      "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "categoriaId": 3,
+      "titulo": "Walk",
+      "url": "https://www.youtube.com/watch?v=AkFqg5wAuFk"
     },
     {
       "id": 12,
-      "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "categoriaId": 3,
+      "titulo": "Cowboys From Hell",
+      "url": "https://www.youtube.com/watch?v=i97OkCXwotE"
     },
     {
       "id": 13,
       "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "titulo": "This Love",
+      "url": "https://www.youtube.com/watch?v=tymWpEU8wpM"
     },
     {
       "id": 14,
       "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "titulo": "Cemetery Gates",
+      "url": "https://www.youtube.com/watch?v=RVMvART9kb8"
     },
     {
       "id": 15,
       "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "titulo": "5 Minutes Alone",
+      "url": "https://www.youtube.com/watch?v=7m7njvwB-Ks"
     },
     {
       "id": 16,
-      "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "categoriaId": 4,
+      "titulo": "Roots Bloody Roots",
+      "url": "https://www.youtube.com/watch?v=F_6IjeprfEs"
     },
     {
       "id": 17,
       "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "titulo": "Ratamahatta",
+      "url": "https://www.youtube.com/watch?v=NiwqRSCWw2g"
     },
     {
       "id": 18,
       "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "titulo": "Territory",
+      "url": "https://www.youtube.com/watch?v=Q_WHGV5bejk"
     },
     {
       "id": 19,
       "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "titulo": "Refuse/Resist",
+      "url": "https://www.youtube.com/watch?v=6ODNxy3YOPU"
     },
     {
       "id": 20,
       "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-    },
-    {
-      "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-    },
-    {
-      "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-    },
-    {
-      "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-    },
-    {
-      "id": 24,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "Arise",
+      "url": "https://www.youtube.com/watch?v=6BOHpjIZyx0"
     }
   ]
 }
