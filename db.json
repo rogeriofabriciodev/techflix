@@ -2,42 +2,37 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Metallica",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Banda norte-americana originária de Los Angeles. O seu repertório inclui tempos rápidos, pesados, melódicos, instrumentais e musicalidade agressiva.",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       }
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "Megadeth",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Banda norte-americana liderada por seu fundador, o vocalista e guitarrista Dave Mustaine. O grupo foi formado em 1983, após Dave ser demitido do Metallica.",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Pantera",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Banda originária da cidade de Arlington, no estado do Texas, no ano de 1981. Formada pelos irmãos, Vinnie Paul (baterista) e Diamond Darrell (o nome Dimebag Darrell só começou a ser utilizado já nos anos de 1990) (guitarrista).",
         "url": "https://www.alura.com.br/cursos-online-mobile"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
-    },
-    {
-      "id": 5,
-      "titulo": "Games",
+      "titulo": "Sepultura",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": " Banda de heavy metal criada em 1984 pelos irmãos Max Cavalera e Igor Cavalera em Belo Horizonte, Minas Gerais.",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       }
     }
@@ -46,32 +41,32 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "Enter Sandman",
+      "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "titulo": "The Unforgiven",
+      "url": "https://www.youtube.com/watch?v=Ckom3gf57Yw"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "titulo": "One",
+      "url": "https://www.youtube.com/watch?v=WM8bTdBs-cw"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "titulo": "Seek & Destroy (Live)",
+      "url": "https://www.youtube.com/watch?v=NJzoBmVPeYw"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "titulo": "Nothing Else Matters 2007 Live Video Full HD",
+      "url": "https://www.youtube.com/watch?v=Lli99OmkPwM"
     },
     {
       "id": 6,
