@@ -79,8 +79,12 @@ function CadastroVideo() {
       <br />
 
       <Link to="/cadastro/categoria">
-        Cadastrar Categoria
+        Cadastrar Banda
       </Link>
+      
+      <br />
+      <br />
+
     </PageDefault>
   );
 }

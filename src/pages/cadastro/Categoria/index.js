@@ -32,7 +32,7 @@ function CadastroCategoria() {
   return (
     <PageDefault>
       <h1>
-        Cadastro de Categoria:
+        Cadastro da Banda:
         {values.nome}
       </h1>
 
